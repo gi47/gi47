@@ -137,7 +137,6 @@ new born web developer from 02.2022 ❗
         <td>
           <h2 align="center">🖥️Server🖥️</h2>
         </td>
-
       </tr>
       <tr>
         <td>
@@ -147,7 +146,6 @@ new born web developer from 02.2022 ❗
               <img
                 src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
             </a>
-
           </p>
         </td>
         <td>
