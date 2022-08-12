@@ -1,45 +1,178 @@
-### Hi there 👋
+## Welcome to Jiin's space 👋 
 
-<!--
-**gi47/gi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+new born web developer from 02.2022 ❗
 
-Here are some ideas to get you started:
+##### Study
+- 14.FEB.2022 ~ 11.AUG.2022 : Bigdata(Spark&Power Bi) & Java web development, THEJOEUN IT ACADEMY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑🏻‍💻 Tech
 
-<!--Red-->
-[![HTML5](https://camo.githubusercontent.com/a962d132a31b30ff7c113422872490e7bdfb2a814a9e156746694139722b2b24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666)](https://camo.githubusercontent.com/a962d132a31b30ff7c113422872490e7bdfb2a814a9e156746694139722b2b24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666) 
-[![Git](https://camo.githubusercontent.com/20779c2157fa970aa658099765dd53ef9fbeaa342106aea7e03a5cf47aa6317f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d666666666666)](https://camo.githubusercontent.com/20779c2157fa970aa658099765dd53ef9fbeaa342106aea7e03a5cf47aa6317f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d666666666666)
-<!--Orange-->
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!--Yellow-->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![JavaScript](https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541)](https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541) 
-<!--Blue-->
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-[![CSS3](https://camo.githubusercontent.com/ea132be4c9d100e973d6462706b73f36826ae4d42beb2fc22569c2cb9fbcb8c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333)](https://camo.githubusercontent.com/ea132be4c9d100e973d6462706b73f36826ae4d42beb2fc22569c2cb9fbcb8c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-<!--Violet-->
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-<!--Blcak-->
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-<!--Dark ETC-->
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <h2 align="center">🧠Languages🧠</h2>
+        </th>
+        <th>
+          <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2>
+        </th>
+        <th>
+          <h2 align="center">DataBase</h2>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <!--- Contents for "🧠Languages🧠" -->
+          <p align="center">
+            <a href="https://www.javascript.com/">
+              <img
+                src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+            </a>
+            <a href="#"><img
+                src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+                alt=""></a>
+            <a href="https://www.w3schools.com/html/">
+              <img
+                src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+            </a>
+            <a href="https://www.mysql.com/">
+              <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+            </a>
+            <a href="https://www.python.org/">
+              <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            </a>
+            <a href="https://www.w3schools.com/css/">
+              <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+            </a>
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "🥋Frameworks, Platforms and Libraries🥋" -->
+          <p align="center">
+            <a href="https://getbootstrap.com/">
+              <img
+                src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+            </a>
+            <a href="https://jquery.com/">
+              <img
+                src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+            </a>
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "DB" -->
+          <p align="center">
+            <a href="#">
+              <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h2 align="center">🔂Continuous Integration(CI)🔂</h2>
+        </td>
+        <td>
+          <h2 align="center">🧙Version Control🧙</h2>
+        </td>
+        <td>
+          <h2 align="center">✍IDEs/Editors✍</h2>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <!--- Contents for "🔂Continuous Integration(CI)🔂" -->
+          <p align="center">
+            <a href="https://travis-ci.org/">
+              <img
+                src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "🧙Version Control🧙" -->
+          <p align="center">
+            <a href="https://git-scm.com/">
+              <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+            </a>
+            <a href="https://github.com/ImaniAN">
+              <img
+                src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "✍IDEs/Editors✍" -->
+          <p align="center">
+            <a href="https://code.visualstudio.com/">
+              <img
+                src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+            </a>
+            <a href="https://visualstudio.microsoft.com/">
+              <img
+                src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+            </a>
+            <a href="#"><img
+                src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"
+                alt=""></a>
+            <a href="https://jupyter.org/">
+              <img
+                src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+            </a>
+            <a href="https://www.jetbrains.com/webstorm/">
+              <img
+                src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h2 align="center">🌐Browsers🌐</h2>
+        </td>
+        <td>
+          <h2 align="center">💻Operating System💻</h2>
+        </td>
+        <td>
+          <h2 align="center">🖥️Server🖥️</h2>
+        </td>
 
+      </tr>
+      <tr>
+        <td>
+          <!--- Contents for "🌐Browsers🌐" -->
+          <p align="center">
+            <a href="https://www.google.com/chrome/">
+              <img
+                src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+            </a>
 
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "💻Operating System💻" -->
+          <p align="center">
+            <a href="https://www.microsoft.com/en-za/windows">
+              <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+            </a>
+            <a href="#"><img
+                src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+                alt=""></a>
+          </p>
+        </td>
+        <td>
+          <!--- Contents for "🖥️Server🖥️" -->
+          <p align="center">
+            <a href="https://www.apache.org/">
+              <img
+                src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+            </a>
+            <a href="#"><img
+                src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+                alt=""></a>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
